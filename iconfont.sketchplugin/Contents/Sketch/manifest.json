@@ -1,8 +1,36 @@
 {
   "name" : "Icon Fonts",
   "description" : "Its a nice plugin to use icon fonts in Sketch for developers and designers.",
-  "version" : "0.3.2",
+  "version" : "0.3.3",
   "commands" : [
+    {
+      "script" : "learn_icon_name.cocoascript",
+      "handler" : "onDegreed",
+      "shortcut" : "cmd ctrl u",
+      "name" : "What is the icon's name?",
+      "identifier" : "degreed_learn_icon_name"
+    },
+    {
+      "script" : "add_icon.cocoascript",
+      "handler" : "onDegreed",
+      "shortcut" : "cmd ctrl i",
+      "name" : "Add an icon with name",
+      "identifier" : "degreed_add_icon"
+    },
+    {
+      "script" : "add_icon_combobox.cocoascript",
+      "handler" : "onDegreed",
+      "shortcut" : "cmd ctrl c",
+      "name" : "Add an icon with dropdown",
+      "identifier" : "degreed_add_icon_combobox"
+    },
+    {
+      "script" : "add_icon_radiolist.cocoascript",
+      "handler" : "onDegreed",
+      "shortcut" : "cmd ctrl l",
+      "name" : "Add an icon with grid",
+      "identifier" : "degreed_add_icon_radiolist"
+    },
     {
       "script" : "learn_icon_name.cocoascript",
       "handler" : "onFontawesome",
@@ -91,6 +119,15 @@
   "menu": {
     "title" : "Icon Fonts",
     "items": [
+      {
+        "title" : "Degreed",
+        "items" : [
+          "degreed_learn_icon_name",
+          "degreed_add_icon",
+          "degreed_add_icon_combobox",
+          "degreed_add_icon_radiolist"
+        ]
+      },
       {
         "title" : "Fontawesome",
         "items" : [

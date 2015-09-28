@@ -15,6 +15,11 @@ var onIon = function(context) {
   onRun(context,"ion.json","Ion Icons","Ionicons");
 }
 
+var onDegreed = function(context) {
+  // onRun function with context, json file path, title and font name.
+  onRun(context,"degreed.json","Degreed Icons","degreedicons");
+}
+
 var onRun = function(context,icon_path,title,fontname) {
 
   var doc = context.document       // the current document (MSDocument)

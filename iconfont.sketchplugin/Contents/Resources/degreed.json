@@ -1,0 +1,618 @@
+{
+    "icons": [{
+            "name": "Mind",
+            "id": "mind",
+            "unicode": "0062",
+            "created": 1,
+            "filter": [
+                "mind",
+                "brain",
+                "think",
+                "thought",
+                "smart"
+            ],
+            "categories": [
+                "Web Application Icons"
+            ]
+        }, {
+            "name": "Info",
+            "id": "info",
+            "unicode": "0064",
+            "created": 1,
+            "filter": [
+                "information",
+                "info"
+            ],
+            "categories": [
+                "Web Application Icons"
+            ]
+        }, {
+            "name": "Graph",
+            "id": "graph",
+            "unicode": "0065",
+            "created": 1,
+            "filter": [
+                "graph",
+                "chart",
+                "lines"
+            ],
+            "categories": [
+                "Web Application Icons"
+            ]
+        }, {
+            "name": "Heart",
+            "id": "heart",
+            "unicode": "0066",
+            "created": 1,
+            "filter": [
+                "heart",
+                "like",
+                "love",
+                "empty heart"
+            ],
+            "categories": [
+                "Web Application Icons"
+            ]
+        }, {
+            "name": "Graph",
+            "id": "graph",
+            "unicode": "0068",
+            "created": 1,
+            "filter": [
+                "heart",
+                "like",
+                "love",
+                "full heart"
+            ],
+            "categories": [
+                "Web Application Icons"
+            ]
+        }, {
+            "name": " Heart Full",
+            "id": "Heart-Full",
+            "unicode": "0067",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Reload",
+            "id": "Reload",
+            "unicode": "0068",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Document",
+            "id": "Document",
+            "unicode": "0069",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Facebook",
+            "id": "Facebook",
+            "unicode": "006a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Unlocked",
+            "id": "Unlocked",
+            "unicode": "006b",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "LinkedIn",
+            "id": "LinkedIn",
+            "unicode": "006c",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Email ",
+            "id": "Email ",
+            "unicode": "006d",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Degreed ",
+            "id": "Degreed ",
+            "unicode": "006e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "People",
+            "id": "People",
+            "unicode": "006f",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Growth",
+            "id": "Growth",
+            "unicode": "0071",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Undo",
+            "id": "Undo",
+            "unicode": "0072",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Toggle",
+            "id": "Toggle",
+            "unicode": "0073",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Hamburger ",
+            "id": "Hamburger ",
+            "unicode": "0075",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Tag ",
+            "id": "Tag ",
+            "unicode": "0076",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Trophy",
+            "id": "Trophy",
+            "unicode": "0077",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Profile ",
+            "id": "Profile ",
+            "unicode": "0078",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Power ",
+            "id": "Power ",
+            "unicode": "0079",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "YouTube ",
+            "id": "YouTube ",
+            "unicode": "007a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Alert ",
+            "id": "Alert ",
+            "unicode": "0041",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Notification",
+            "id": "Notification",
+            "unicode": "0042",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Add ",
+            "id": "Add ",
+            "unicode": "0043",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Add Large ",
+            "id": "Add-Large ",
+            "unicode": "0044",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Indent",
+            "id": "Indent",
+            "unicode": "0045",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Back",
+            "id": "Back",
+            "unicode": "0046",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Comment ",
+            "id": "Comment ",
+            "unicode": "0047",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Degreed Star",
+            "id": "Degreed-Star",
+            "unicode": "0048",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Filter",
+            "id": "Filter",
+            "unicode": "004a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Zoom",
+            "id": "Zoom",
+            "unicode": "004b",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Upload",
+            "id": "Upload",
+            "unicode": "004c",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Close ",
+            "id": "Close ",
+            "unicode": "004d",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Bookmark",
+            "id": "Bookmark",
+            "unicode": "004e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Arrow Right ",
+            "id": "Arrow-Right ",
+            "unicode": "004f",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Doc Full",
+            "id": "Doc-Full",
+            "unicode": "0050",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Reject",
+            "id": "Reject",
+            "unicode": "0051",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Target",
+            "id": "Target",
+            "unicode": "0052",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Edit",
+            "id": "Edit",
+            "unicode": "0053",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Locked",
+            "id": "Locked",
+            "unicode": "0054",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Glasses ",
+            "id": "Glasses ",
+            "unicode": "0055",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Clock ",
+            "id": "Clock ",
+            "unicode": "0056",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Magnifying Glass",
+            "id": "Magnifying-Glass",
+            "unicode": "0057",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Arrow Left",
+            "id": "Arrow-Left",
+            "unicode": "0058",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Arrow Down",
+            "id": "Arrow-Down",
+            "unicode": "0059",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Arrow Up",
+            "id": "Arrow-Up",
+            "unicode": "005a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Starred Item",
+            "id": "Starred-Item",
+            "unicode": "0031",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Twitter ",
+            "id": "Twitter ",
+            "unicode": "0032",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Circle Full ",
+            "id": "Circle-Full ",
+            "unicode": "0033",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Circle Empty",
+            "id": "Circle-Empty",
+            "unicode": "0034",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Target",
+            "id": "Target",
+            "unicode": "0035",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Building",
+            "id": "Building",
+            "unicode": "0036",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Close ",
+            "id": "Close ",
+            "unicode": "0037",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Checkmark ",
+            "id": "Checkmark ",
+            "unicode": "0038",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Add Circle",
+            "id": "Add-Circle",
+            "unicode": "0039",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Google+ ",
+            "id": "Google-Plus ",
+            "unicode": "0030",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Minus ",
+            "id": "Minus ",
+            "unicode": "007e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Down Circle ",
+            "id": "Down-Circle ",
+            "unicode": "0060",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Up Circle ",
+            "id": "Up-Circle ",
+            "unicode": "002c",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Graduation",
+            "id": "Graduation",
+            "unicode": "002d",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Tools ",
+            "id": "Tools ",
+            "unicode": "003d",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Gear",
+            "id": "Gear",
+            "unicode": "0021",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Right Arrow ",
+            "id": "Right-Arrow ",
+            "unicode": "0040",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Flag",
+            "id": "Flag",
+            "unicode": "0023",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Government",
+            "id": "Government",
+            "unicode": "0024",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Calendar",
+            "id": "Calendar",
+            "unicode": "0025",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Open In New ",
+            "id": "Open-In-New ",
+            "unicode": "005e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Star",
+            "id": "Star",
+            "unicode": "002a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Trash ",
+            "id": "Trash ",
+            "unicode": "0029",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Navigation",
+            "id": "Navigation",
+            "unicode": "005f",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Book Closed ",
+            "id": "Book-Closed ",
+            "unicode": "002b",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Form",
+            "id": "Form",
+            "unicode": "005b",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Badge ",
+            "id": "Badge ",
+            "unicode": "005d",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Presentation",
+            "id": "Presentation",
+            "unicode": "007c",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Checkmark Circle",
+            "id": "Checkmark-Circle",
+            "unicode": "003b",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Minus Circle",
+            "id": "Minus-Circle",
+            "unicode": "003a",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Asterisk",
+            "id": "Asterisk",
+            "unicode": "0027",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Share ",
+            "id": "Share ",
+            "unicode": "002e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Close Circle",
+            "id": "Close-Circle",
+            "unicode": "003e",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Email Circle",
+            "id": "Email-Circle",
+            "unicode": "002f",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }, {
+            "name": "Help Circle ",
+            "id": "Help-Circle ",
+            "unicode": "003f",
+            "created": 1,
+            "filter": [],
+            "categories": ["Web Application Icons"]
+        }
+    ]
+}
